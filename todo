@@ -1,4 +1,6 @@
-input box for user value....done
-make computer choose a random value..done
-match both the value if same increase score... done
-decrease score if not same
+game scenario
+
+if both are same then tie.. done
+rock loser, paper winner....done
+rock winner, scissor looser
+scissor winner, paper looser
